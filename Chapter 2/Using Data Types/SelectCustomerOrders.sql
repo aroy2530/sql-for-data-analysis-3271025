@@ -1,3 +1,4 @@
+-- Returns list of unique customers with total due on orders
 SELECT Customer.CustomerID,
   FirstName,
   LastName,
